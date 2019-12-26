@@ -21,7 +21,7 @@ Template code is provided in the `finding_donors.ipynb` notebook file. You will 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands after converting the file finding_doners.html to .ipynb:
 
 ```bash
 ipython notebook finding_donors.ipynb
